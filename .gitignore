@@ -3,6 +3,6 @@
 *.dll
 *.xlsx
 *.ipynb
+*.zip
 
-!*_제조보고서_원단내역.xlsx
 !제조보고서_원단_내역찾기.ipynb
